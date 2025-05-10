@@ -6,7 +6,7 @@ use App\Exceptions\InvalidCredentialsException;
 use App\Exceptions\InactiveUserException;
 use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;
 use Throwable;
-
+ ///// Lexco es lo mejor
 class Handler extends ExceptionHandler
 {
     /**
